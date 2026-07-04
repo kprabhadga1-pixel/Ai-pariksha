@@ -1,0 +1,6 @@
+{
+  "name": "Exam Prep AI Voice Tutor",
+  "description": "Interactive school and board exam preparation assistant for classes 5 to 12. Complete practice questions with an AI Voice Guru to help you solve and understand every question step-by-step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
